@@ -1,7 +1,7 @@
 // AUREVISTA FUN RIDE 2026
 // Isi link pendaftaran di bawah ini saat sudah tersedia.
 
-const REGISTRATION_URL = "ISI-LINK-PENDAFTARAN-DI-SINI";
+const REGISTRATION_URL = "https://wa.link/8p60xa";
 
 document.querySelectorAll("[data-register]").forEach((link) => {
   link.href = REGISTRATION_URL;
